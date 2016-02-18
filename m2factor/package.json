@@ -1,0 +1,14 @@
+{
+  "name": "2factor",
+  "version": "1.0.0",
+  "description": "2Factor.in provides extremely simple to use APIs for implementing 2Factor Authentication ( Phone verification ) with just 1 API Call.
+Best Part of 2Factor.in solution is its Fast, Reliable & Economical too.",
+  "main": "./lib/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "APIMATIC SDK Generator",
+  "dependencies": {
+    "request": "^2.55.0",
+    "string": "^3.1.1"
+  }
+}
